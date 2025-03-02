@@ -1,5 +1,5 @@
 
-### Arduino Chess Clock Project
+## Arduino Chess Clock Project
 
 #### Overview
 This repository contains the code, schematic, and documentation for an Arduino-based chess clock designed to manage time for two players during a chess match. The project uses an Arduino Nano as the central microcontroller, paired with an I2C 2x16 LCD display to show the remaining time for each player. The clock features intuitive controls for setting time, starting/stopping the game, and switching between players, making it ideal for both casual and competitive chess games.
