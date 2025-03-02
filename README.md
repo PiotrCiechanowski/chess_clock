@@ -69,4 +69,4 @@ This project is open-source and licensed under the MIT License. Feel free to mod
 #### Author
 Created by Piotr Ciechanowski. For questions or contributions, please open an issue or submit a pull request.
 
-<img src="IMG_1246.jpeg">
+<img src="IMG_1246.jpeg" width=500px>
