@@ -1,4 +1,4 @@
-# chess_clock
+
 ### Arduino Chess Clock Project
 
 #### Overview
